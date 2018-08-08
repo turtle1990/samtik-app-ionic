@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Angular-Forms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-app-starterkit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-material" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-ngrx-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-project/project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-realworld-example-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular6-example-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/form-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ionic-exam/firstapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ionic3-movie-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/samtik-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/samtik-ionic-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/samtik-ionic-app/app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webapi-test/myapi" vcs="Git" />
+  </component>
+</project>
